@@ -6,7 +6,7 @@ Given images of Vietnamese traffic signs in the real-world dataset, the task is 
 
 For detailed, visit: https://challenge.zalo.ai/portal/traffic-sign-detection
 
-## About Data?
+## About Data
 - train data: 4500 images
 - test data: 586 images
 
